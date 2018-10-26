@@ -31,7 +31,7 @@ The space must have ...
 * If you do not have computers in the space, remember to encourage participants to bring their own laptops (if available) 
 * Come to site host office hours, and test Vidyo Conferencing. [Schedule here.](https://public.etherpad-mozilla.org/p/global-sprint-host-hours)
 * Post, tweet, and/or blog about the event! (include registration link for your site registration page if you still have spaces available). Again, you can use our pre-written posts. 
-* Send a last round of email invitations and reminders; let participants know about the INtro to Sprint Participation calls [Info on those calls is here](https://public.etherpad-mozilla.org/p/global-sprint-intro18).
+* Send a last round of email invitations and reminders; let participants know about the Intro to Sprint Participation calls [Info on those calls is here](https://public.etherpad-mozilla.org/p/global-sprint-intro18).
 
 
 ### What to do the day before the Sprint
